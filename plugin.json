@@ -1,0 +1,19 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "woia-software-technical-design",
+  "version": "0.5.0",
+  "description": "Reusable technical design capability for translating software architecture into implementation-ready cross-cutting technical contracts while preserving system boundaries.",
+  "author": {
+    "name": "Turpial AI Academy",
+    "url": "https://github.com/Turpial-AI-Academy"
+  },
+  "homepage": "https://github.com/Turpial-AI-Academy/woia-software-technical-design-agent-plugin",
+  "repository": "https://github.com/Turpial-AI-Academy/woia-software-technical-design-agent-plugin",
+  "license": "MIT",
+  "keywords": [
+    "agent-plugin",
+    "woia",
+    "software",
+    "technical-design"
+  ]
+}

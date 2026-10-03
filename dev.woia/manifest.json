@@ -1,0 +1,26 @@
+{
+  "schema": "dev.woia.provider-manifest/v1",
+  "version": "0.5.0",
+  "authoring_profile": "thin",
+  "department": "software",
+  "capability": "technical-design",
+  "skill": "technical-design",
+  "source_lineage": {
+    "repository": "Turpial-AI-Academy/technical-design-agent-plugin",
+    "version": "1.0.1",
+    "commit": "9c12566ec01aae9162457864536a9f6927e6abab"
+  },
+  "migrated_portable_paths": [
+    "skills/technical-design/SKILL.md",
+    "skills/technical-design/assets/README.md",
+    "skills/technical-design/assets/contract-catalog.template.md",
+    "skills/technical-design/assets/technical-design.template.md",
+    "skills/technical-design/references/CONTRACT_CATALOG.md",
+    "skills/technical-design/references/DISCOVERY_MODEL.md",
+    "skills/technical-design/references/INTERACTION_AND_FAILURE_MODEL.md",
+    "skills/technical-design/references/README.md",
+    "skills/technical-design/references/REVIEW_CHECKLIST.md",
+    "skills/technical-design/references/SPEC_BOUNDARY.md",
+    "skills/technical-design/references/TECHNICAL_DESIGN_STANDARD.md"
+  ]
+}
