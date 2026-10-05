@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "woia-software-technical-design",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "Reusable technical design capability for translating software architecture into implementation-ready cross-cutting technical contracts while preserving system boundaries.",
   "author": {
     "name": "Turpial AI Academy",
