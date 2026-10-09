@@ -5,7 +5,7 @@ license: MIT
 compatibility: Works with software repositories across languages and architecture styles; the agent needs access to the relevant architecture and repository evidence, and repository-specific tooling only when validating concrete contracts.
 metadata:
   author: Turpial AI Academy
-  version: "0.5.6"
+  version: "0.5.7"
 ---
 
 # technical-design
